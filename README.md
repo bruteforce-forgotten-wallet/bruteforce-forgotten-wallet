@@ -217,4 +217,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update:  13.06.2025 04:18 Thumbnail URLs
+
+
+Update: Link is now live and reachable
