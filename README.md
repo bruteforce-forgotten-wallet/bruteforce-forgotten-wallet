@@ -219,4 +219,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update: Link is now live and reachable
+
+
+Update: Email links
